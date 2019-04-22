@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map MOVIVariables 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MOVIVariables	KEYWORD1
+MOVIVariablesResult	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+addSentence	KEYWORD2
+match	KEYWORD2
+getWords	KEYWORD2
+getSentence	KEYWORD2
+getValues	KEYWORD2
+getScore	KEYWORD2
+
+#######################################
+# Structures (KEYWORD3)
+#######################################
+
+MatchingMethod	KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
